@@ -5,7 +5,7 @@
 3) Created a middleware for JWT authentication.
 4) Created an API CRUD operation for a product with payload validation and authenticated the routes with JWT middleware
 
-Tech Stack Used: MongoDB, NodeJs, ExpressJs
+ Tech Stack Used: MongoDB, NodeJs, ExpressJs
 
 
  1. Frontend Deployed Link: https://kkm-two.vercel.app/signup 
